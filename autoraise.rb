@@ -3,7 +3,7 @@ class Autoraise < Formula
   homepage "https://github.com/alin23/AutoRaise"
   version "3.0"
   url "https://github.com/alin23/AutoRaise/archive/refs/tags/v#{version}.tar.gz"
-  sha256 "bd7bf10466251daf2e06f5ccf682ac9d183fcabcc3e298e5009b1e2ad640c926"
+  sha256 "cd76bd5cde1f0694a94d3b234720b9c87171271a44868f224d7f5ac5e22335e3"
   license "GPL-3.0"
 
   head do
