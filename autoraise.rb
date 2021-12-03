@@ -1,7 +1,7 @@
 class Autoraise < Formula
   desc "Focus-follows-mouse for MacOS"
   homepage "https://github.com/alin23/AutoRaise"
-  version "2.5"
+  version "3.0"
   url "https://github.com/alin23/AutoRaise/archive/refs/tags/v#{version}.tar.gz"
   sha256 "bd7bf10466251daf2e06f5ccf682ac9d183fcabcc3e298e5009b1e2ad640c926"
   license "GPL-3.0"
